@@ -15,7 +15,7 @@ color:
 # Team names, titles and social links
 people:
 - name: Marcel Laza
-  pic: 1
+  pic: Marcel
   position: test
   social:
     - title: twitter
