@@ -6,6 +6,8 @@ title: GDG Garage
 email: macinda@gmail.com
 description: ""
 
+
+exclude: [css. style.css]
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: fed136
@@ -15,26 +17,52 @@ color:
 # Team names, titles and social links
 people:
 - name: Marcel Laza
-  pic: 1
-  position: test
+  pic: marcel
+  position: GDG Org
   social:
     - title: twitter
-      url: #
-    - title: facebook
+      url: https://twitter.com/lazamarcel
+    - title: linkedin
+      url: https://www.linkedin.com/pub/marcel-laza/45/763/427
+
+- name: Filip Goszler
+  pic: filip
+  position: GDG Org
+  social:
+    - title: twitter
+      url: https://twitter.com/FilipGoszler
+    - title: linkedin
+      url: cz.linkedin.com/pub/filip-goszler/57/372/9a0/en
+
+participants:
+- name: You
+  pic: wewantyou
+  position: SW blaster
+  social:
+    - title: twitter
       url: #
     - title: stack-overflow
       url: #
 
-- name: Filip Goszler
-  pic: 2
-  position: test
+- name: You
+  pic: wewantyou
+  position: HW Guru
   social:
     - title: twitter
       url: #
-    - title: facebook
+- name: You
+  pic: wewantyou
+  position: Mr. Possible
+  social:
+    - title: twitter
       url: #
-    - title: linkedin
+- name: You
+  pic: wewantyou
+  position: I can do that!
+  social:
+    - title: twitter
       url: #
+
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)

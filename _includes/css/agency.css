@@ -266,7 +266,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../img/header-bg.jpg);
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(./img/garage.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -637,6 +637,7 @@ section h3.section-subheading {
 .team-member img {
     margin: 0 auto;
     border: 7px solid #fff;
+    max-width: 250px;
 }
 
 .team-member h4 {
@@ -646,6 +647,27 @@ section h3.section-subheading {
 }
 
 .team-member p {
+    margin-top: 0;
+}
+
+.participants-member {
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.participants-member img {
+    margin: 0 auto;
+    border: 7px solid #fff;
+    max-width: 150px;
+}
+
+.participants-member h4 {
+    margin-top: 25px;
+    margin-bottom: 0;
+    text-transform: none;
+}
+
+.participants-member p {
     margin-top: 0;
 }
 
