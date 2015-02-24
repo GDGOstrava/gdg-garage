@@ -20,6 +20,8 @@ people:
   pic: marcel
   position: GDG Org
   social:
+    - title: google-plus
+      url: https://plus.google.com/u/1/+MarcelLáža1/
     - title: twitter
       url: https://twitter.com/lazamarcel
     - title: linkedin
@@ -29,10 +31,34 @@ people:
   pic: filip
   position: GDG Org
   social:
+    - title: google-plus
+      url: https://plus.google.com/u/1/+FilipGoszler/
     - title: twitter
       url: https://twitter.com/FilipGoszler
     - title: linkedin
-      url: cz.linkedin.com/pub/filip-goszler/57/372/9a0/en
+      url: https://www.linkedin.com/pub/filip-goszler/57/372/9a0/en
+
+- name: Zdenek Solnicky
+  pic: zdenek
+  position: GDG Org
+  social:
+    - title: google-plus
+      url: https://plus.google.com/u/1/+ZdeněkSolnický/
+    - title: twitter
+      url: https://twitter.com/zdeneksolnicky
+    - title: linkedin
+      url: https://www.linkedin.com/in/zdeneksolnicky/en
+
+- name: Lukas Vaculik
+  pic: lukas
+  position: GDG Org
+  social:
+    - title: google-plus
+      url: https://plus.google.com/u/1/+LukášVaculík/
+    - title: twitter
+      url: https://twitter.com/D3VL3R
+    - title: linkedin
+      url: https://www.linkedin.com/in/lukasvaculik/en
 
 participants:
 - name: You
