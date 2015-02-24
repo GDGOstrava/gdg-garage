@@ -93,6 +93,8 @@ participants:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: google-plus
+    url: https://plus.google.com/u/0/b/112342577449557575881/112342577449557575881/posts
   - title: twitter
     url: https://twitter.com/GXG_Ostrava
   - title: facebook
