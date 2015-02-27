@@ -1,0 +1,15 @@
+---
+title: Work Condition Monitoring
+subtitle: HW and Cloud services
+layout: default
+modal-id: 4
+date: 2015-02-02
+img: monitoring.jpg
+thumbnail: monitoring-thumbnail.jpg
+alt: image-alt
+project-date: March 2015
+client: GDG Garage
+category: Arduino, Wifi, Google App Engine, Python
+difficulty: Medium
+description: Design and build real time reporting website which shows working conditions for GDG Garage atendees(like temperature, humadity, air quality etc.) Use Python django framework based on GAE and build small hw monitoring device which will be measuring data and sending them to server.
+---

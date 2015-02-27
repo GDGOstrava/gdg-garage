@@ -1,0 +1,16 @@
+---
+title: Garage Posters
+subtitle: Website
+layout: default
+modal-id: 3
+date: 2015-03-01
+img: poster.jpg
+thumbnail: poster-thumbnail.jpg
+alt: image-alt
+project-date: March 2015
+client: Filip Hracek
+category: Web Development
+difficulty: Easy
+description: Create a tool (ideally web-based) for automatic creation of custom, printable posters for local GDG Garages. The input can be just a couple of variables (the Garage’s name, address, contact info, …) or whole localized blocks of text. The output is a beautifully designed page.
+
+---

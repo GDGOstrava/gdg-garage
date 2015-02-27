@@ -1,0 +1,15 @@
+---
+title: GDG Garage logo 
+subtitle: Design
+layout: default
+modal-id: 2
+date: 2015-03-02
+img: logo.jpg
+thumbnail: logo-thumbnail.jpg
+alt: image-alt
+project-date: March 2015
+client: GDG Garage
+category: Graphics
+difficulty: Easy
+description: Design GDG Garage logo using vector or bitmap graphics editor.
+---

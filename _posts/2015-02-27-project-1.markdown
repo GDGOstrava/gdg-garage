@@ -10,6 +10,6 @@ alt: image-alt
 project-date: March 2015
 client: GDG Garage
 category: Arduino, Android, BT
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+difficulty: Easy
+description: Let's plan design and built simple alcohol tester based on MQ-3 sensor and Arduino nano in 3 hours! Next Garage iterate, connect BT module and connect with Android phone.
 ---
